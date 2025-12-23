@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/boubakar12/boubakar12/main/assets/banner.svg" alt="Boubakar Diallo banner" />
+</p>
+
 <h1 align="center">hi, i'm boubakar 👋</h1>
 
 <p align="center">
